@@ -2,7 +2,7 @@
 description: >-
   Com cash você pode adquirir VIPs, negociar com outros jogadores e muito mais
   em nossos servidores, acesse o /cash shop no servidor para mais informações
-cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
+cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
@@ -14,9 +14,7 @@ Cash é uma recompensa que você recebe em troca de apoiar o nosso servidor com 
 
 ## **Por que precisamos das doações?**
 
-Manter um servidor de minecraft online não é barato. Existe vários custos mensais envolvidos, hospedagem, compra de plugins e pagamento de serviços. Para hospedar nosso servidor, possuímos duas máquinas **dedicadas e hospedada em São Paulo,** uma possui com um processador Ryzen 9 7950x com 128GB de memória RAM e disco de armazenamento de 1TB NVME e a outra Ryzen 9 7950x com 64GB de memória RAM e disco de armazenamento de 1TB NVME.
-
-Ambas as maquinas são hospedadas pela empresa [EnxadaHost](https://enxadahost.com/members/aff.php?aff=361), caso possua interesse em conhecer o serviço, podem acessar [aqui](https://enxadahost.com/members/aff.php?aff=361).
+Manter um servidor de minecraft online não é barato. Existe vários custos mensais envolvidos, hospedagem, compra de plugins e pagamento de serviços. Para hospedar nosso servidor, possuímos uma máquina **dedicada e hospedada em São Paulo,** nossa máquina possui um processador Ryzen 5950x com 128GB de memória RAM e disco de armazenamento de 1TB NVMe M2.
 
 ### **O que eu posso fazer para apoiar o servidor?**
 
@@ -51,10 +49,10 @@ Se o prazo de entrega tiver passado, entre em contato conosco através do nosso 
 [vips.md](vips.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../survival/cash/chaves.md" %}
-[chaves.md](../../survival/cash/chaves.md)
+{% content-ref url="chaves.md" %}
+[chaves.md](chaves.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="tags.md" %}
+[tags.md](tags.md)
 {% endcontent-ref %}

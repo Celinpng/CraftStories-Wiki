@@ -1,6 +1,6 @@
 ---
 description: Como colorir suas mensagens ou seu nick
-cover: ../.gitbook/assets/Inserir_um_titulo_3.png
+cover: ../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

@@ -1,10 +1,10 @@
 ---
 description: Termos e Condições da Rede Revo
-cover: ../.gitbook/assets/bannercomfundorevo.png
+cover: ../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
-# ✏️ Termos
+# ✏ Termos
 
 {% hint style="warning" %}
 Ao adquirir qualquer serviço prestado por nós, deverá concordar com os nossos Termos de Uso e a nossa Política de Privacidade.
@@ -28,7 +28,7 @@ Fica reservado o nosso direito de alterar os Termos de Uso para assegurar a noss
 
 **3.1.** Ao adquirir qualquer item do site, a ativação será feita automaticamente por nosso sistema. A entrega não será feita automaticamente caso haja algum problema com sua doação pela forma de pagamento escolhida e ou caso nosso sistema esteja passando por uma atualização.
 
-**3.2.** Ao adquirir um item em nosso site, você está doando para o servidor. Em reconhecimento disso, o servidor agradece com uma jogabilidade diferenciada, assim fazendo com que nós permaneçamos online.&#x20;
+**3.2.** Ao adquirir um item em nosso site, você está doando para o servidor. Em reconhecimento disso, o servidor agradece com uma jogabilidade diferenciada, assim fazendo com que nós permaneçamos online. ****&#x20;
 
 **3.3.** Qualquer item adquirido em nossa loja faz parte de um modelo de doação. Posto isso, pedidos de reembolso apenas serão aceitos caso siga as regras abaixo:
 
@@ -45,8 +45,6 @@ Fica reservado o nosso direito de alterar os Termos de Uso para assegurar a noss
 \- Reorganizar as finanças ora destinadas a partes essenciais para o desenvolvimento, crescimento e melhorias na jogabilidade do servidor para outros players
 
 **3.6.** Nós não temos nenhuma ligação com a **Mojang**.
-
-**3.7.** Prazo estimado padrão de entrega de até **10 minutos**.
 
 ### **4. PRIVILÉGIOS E** UTILIZAÇÃO DOS ITENS ADQUIRIDOS
 

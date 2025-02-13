@@ -1,6 +1,6 @@
 ---
 description: O que é o cargo Divindade e como conseguir?
-cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
+cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
@@ -10,14 +10,14 @@ coverY: 0
 
 ### E quais são as vantagens de ter esse cargo?
 
-* Tenha uma estátua sua exposta no Lobby.
+* Tenha seu NPC exposto no Lobby.
 * Receba destaque no TAB e Chat.
 * Cargo exclusivo com destaque no discord.
-* Não perde a sua cabeça ao morrer.
+* Receba duas tags exclusivas **Divino** e **Divina.**
+* Não perde a sua cabeça ao morrer no Survival.
 * Acesso ao `/brilhar` e `/colorido` em todos os servidores.
+* Tags Divino e Divina (apenas para o top 1).
 
-### Recompensas para quem estiver no TOP 1, 2 e 3 ao fechar o mês:
-
-* Receba duas tags exclusivas **Divino** e **Divina.** (com duração de 1 mês e exclusiva para o top 1)
-* Receberá um **Chapéu do Revonildo** (Item exclusivo e colecionável em todos modos de Jogo).&#x20;
-
+{% hint style="info" %}
+As vantagens só duram durante o mês em que você foi top doador(a)
+{% endhint %}

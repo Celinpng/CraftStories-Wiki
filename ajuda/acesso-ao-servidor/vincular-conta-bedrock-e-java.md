@@ -1,7 +1,6 @@
 ---
 description: Saiba como vincular sua conta Java com a Bedrock Edition!
-hidden: true
-cover: ../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
@@ -27,7 +26,7 @@ Exemplo: Minha conta no Java é `thiagogebrim` e minha conta no Bedrock é `thia
 1. Entro no site da GeyserMC: [https://link.geysermc.org/](https://link.geysermc.org/)
 2. Clico em:
 
-![](<../../.gitbook/assets/image (1) (2) (1).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)
 
 3\.  Escolho a opção "Online Linking":
 
