@@ -1,6 +1,6 @@
 ---
-description: Bem vindo a Wiki da Rede Revo!
-cover: .gitbook/assets/bannercomfundorevo.png
+description: Bem vindo a Wiki da  Revo!
+cover: .gitbook/assets/.png
 coverY: 0
 ---
 
@@ -32,7 +32,7 @@ Aqui você aprenderá tudo que precisa sobre o vosso servidor, desde os sistemas
 [fale-conosco.md](outros/fale-conosco.md)
 {% endcontent-ref %}
 
-## <mark style="color:blue;">Texturas personalizadas da Rede Revo:</mark>
+## <mark style="color:blue;">Texturas personalizadas da  Revo:</mark>
 
 {% content-ref url="outros/revo-pack.md" %}
 [revo-pack.md](outros/revo-pack.md)
